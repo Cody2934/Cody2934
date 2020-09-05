@@ -4,20 +4,58 @@
 
 Here are some ideas to get you started:    
 
-- 🔭 I’m currently working on ...    
+<details>
+  <summary>🔭 I’m currently working on ...</summary>
+  
 *<sup>My GitHub `README.md` and designing [my protfolio page](codylylebrown.com) :writing_hand:<sup>*
-- 🌱 I’m currently learning ...    
+</details>
+
+
+<details>
+  <summary>🌱 I’m currently learning ...</summary>
+  
 *<sup>Fancy extras I can do with a markdown file; as well as machine learning and hardware for a quadcopter I'm building and programming :helicopter::helicopter::helicopter::helicopter:<sup>*
-- 👯 I’m looking to collaborate on ...    
-*<sup>Anything you need help with. Whether you're having technical issues, looking for honest feedback, or just requiring a bit of motivation...I'm always here to help :clap:<sup>*
-- 🤔 I’m looking for help with ...    
+</details>
+
+
+<details>
+  <summary>👯 I’m looking to collaborate on ...</summary>
+  
+  *<sup>Anything you need help with. Whether you're having technical issues, looking for honest feedback, or just requiring a bit of motivation...I'm always here to help :clap:<sup>*
+</details>
+
+
+<details>
+<summary>🤔 I’m looking for help with ...</summary>  
+  
 *<sup>Furthering my career in tech. For about a year now I've been a software developer and am currnetly open to employment opportunities :office:<sup>*
-- 💬 Ask me about ...    
+</details>
+
+
+<details>
+<summary>💬 Ask me about ...</summary>
+  
 *<sup>Anything you want to know more about. Some say knowledge is power; I feel true power comes from sharing the knowledge you have with others :muscle:<sup>*
-- 📫 How to reach me: ...    
+</details>
+
+
+<details>
+<summary>📫 How to reach me: ...</summary>
+  
 *<sup>I recomend email or [my LinkedIn](https://www.linkedin.com/in/codylylebrown/). <sub>PSST, look over there :eyes: for my emaill.<sub><sup>*
-- 😄 Pronouns: ...    
+</details>
+
+
+<details>
+<summary>😄 Pronouns: ...</summary>
+  
 *<sup>He || Him<sup>*
-- ⚡ Fun fact: ...    
+</details>
+  
+
+<details>
+<summary>⚡ Fun fact: ...</summary>  
+  
 *<sup>I qualified for the Olympics :dart: when I was 19 but chose to focus on other things.<sup>*
+</details>
 
