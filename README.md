@@ -1,6 +1,6 @@
 ![hellothere](https://media3.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)    
 **Cody2934/Cody2934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.    
-<sup>Well that sounds awesome. Let's give it a try.<sup>
+*<sup>Well that sounds awesome! Let's give it a try :metal:<sup>*
 
 Here are some ideas to get you started:    
 
