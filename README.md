@@ -1,4 +1,7 @@
 ![hellothere](https://media3.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)    
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+[![Linkedin Badge](https://img.shields.io/badge/-codylylebrown-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codylylebrown/)](https://www.linkedin.com/in/codylylebrown/) [![Gmail Badge](https://img.shields.io/badge/-clb2934@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:clb2934@gmail.com)](mailto:clb2934@gmail.com)
+
 **Cody2934/Cody2934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.    
 *<sup>Well that sounds awesome! Let's give it a try :metal:<sup>*
 
@@ -58,4 +61,8 @@ Here are some ideas to get you started:
   
 *<sup>I qualified for the Olympics :dart: when I was 19 but chose to focus on other things.<sup>*
 </details>
+  
+![Cody's github stats](https://github-readme-stats.vercel.app/api?username=cody2934&hide=["issues"]&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=cody2934.cody2934)
 
