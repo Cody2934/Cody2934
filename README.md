@@ -2,8 +2,7 @@
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 [![Linkedin Badge](https://img.shields.io/badge/-codylylebrown-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codylylebrown/)](https://www.linkedin.com/in/codylylebrown/) [![Gmail Badge](https://img.shields.io/badge/-clb2934@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:clb2934@gmail.com)](mailto:clb2934@gmail.com)
 
-What's this??? **Cody2934/Cody2934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile???    
-*<sup>Well that sounds awesome! Let's give it a try :metal:<sup>*
+Hello and welcome to my READme. I hope you're doing well. Feel free to take a look around and hit me up if you wanna talk.
 
 <details>
   <summary>Where do I work?</summary>
