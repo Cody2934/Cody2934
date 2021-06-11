@@ -8,35 +8,35 @@
 Here are some ideas to get you started:    
 
 <details>
-  <summary>🔭 I’m currently working on ...</summary>
+  <summary>Where do I work ...</summary>
   
-*<sup>My GitHub `README.md` and designing [my protfolio page](codylylebrown.com) :writing_hand:<sup>*
+*<sup>I work at FuelCloud. A cloud based fuel management company with multiple hardware and software components.<sup>*
 </details>
 
 
 <details>
-  <summary>🌱 I’m currently learning ...</summary>
+  <summary>What do I do at FuelCloud ...</summary>
   
-*<sup>Fancy extras I can do with a markdown file; as well as machine learning and hardware for a quadcopter I'm building and programming :helicopter::helicopter::helicopter::helicopter:<sup>*
+*<sup>At FuelCloud I'm a Technical Support Specialist. I work with elelctircal engineers and technicians to install our hardware as well as third-party hardware. I help IT teams integrate their system and reporting with ours. I instruct everyone from truck drivers to company owners on how to use our system and best practices. I'm also in the middle of refactoring our entire support process from the the moment someone has an issues, to a ticket being created, to helping track down the bugs.<sup>*
 </details>
 
 
 <details>
-  <summary>👯 I’m looking to collaborate on ...</summary>
+  <summary>What do I do on my freetime?</summary>
   
-  *<sup>Anything you need help with. Whether you're having technical issues, looking for honest feedback, or just requiring a bit of motivation...I'm always here to help :clap:<sup>*
+*<sup>My freetime consists of two things...taking care of my newbord daughter Mia, and learning and tinkering with new tech; building and flying a quadcopter or done as most people call it, learning new common tools such as ZenDesk, Jira, Geckoboards, and Instabug.<sup>*
 </details>
 
 
 <details>
-<summary>🤔 I’m looking for help with ...</summary>  
+<summary>I’m looking to help with ...</summary>  
   
-*<sup>Furthering my career in tech. For about a year now I've been a software developer and am currnetly open to employment opportunities :office:<sup>*
+*<sup>Honestly...anyting. Before starting at FuelCloud most of my weeekends and some weeks were taken up by hackathons and inventathons. I would either work on projects as a software developer, designer, or project manager. OHSU/MIT hackathon my team took 2nd place, Amazon PDX Hackaton my team took 3rd place, Technology Association of Oregon Inventathon my team got an honorable mention for diversity and inclusion. If you need help with anything, I'm here to help.<sup>*
 </details>
 
 
 <details>
-<summary>💬 Ask me about ...</summary>
+<summary>Ask me about ...</summary>
   
 *<sup>Anything you want to know more about. Some say knowledge is power; I feel true power comes from sharing the knowledge you have with others :muscle:<sup>*
 </details>
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <details>
 <summary>⚡ Fun fact: ...</summary>  
   
-*<sup>I qualified for the Olympics :dart: when I was 19 but chose to focus on other things.<sup>*
+*<sup>I qualified for the Olympics :dart: when I was 19 for archery but chose to focus on other things.<sup>*
 </details>
   
 ![Cody's github stats](https://github-readme-stats.vercel.app/api?username=cody2934&hide=["issues"]&show_icons=true)
