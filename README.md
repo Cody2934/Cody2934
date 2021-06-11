@@ -26,35 +26,35 @@ Hello and welcome to my READme. I hope you're doing well. Feel free to take a lo
 
 
 <details>
-<summary>How can I help?</summary>  
+  <summary>How can I help?</summary>  
   
 *<sup>If you need help with anything just ask. Before starting at FuelCloud most of my weeekends and some weeks were taken up by hackathons and inventathons. I would either work on projects as a software developer, designer, or project manager. During the OHSU/MIT hackathon my team took 2nd place for our teen suicide prevention mobile app. During the Amazon PDX Hackaton my team took 3rd place for creating a covid safe way of clocking in cusing Amazons Facial Recognition software. During the Technology Association of Oregon Inventathon Techlandia summit my team got an honorable mention for diversity and inclusion when we were building our BLE health monitors for helping seniors with their every day lives. If you need help with anything, just let me know, I'm here to help.<sup>*
 </details>
 
 
 <details>
-<summary>Ask me about . . . </summary>
+  <summary>Ask me about . . . </summary>
   
 *<sup>Anything you want to know more about. I'm an open book. Some say knowledge is power; I feel true power comes from sharing the knowledge you have with others :muscle:<sup>*
 </details>
 
 
 <details>
-<summary>📫 How to reach me:</summary>
+  <summary>📫 How to reach me:</summary>
   
 *<sup>I recomend sending me an email or [my LinkedIn](https://www.linkedin.com/in/codylylebrown/). <sub>PSST, look over there :eyes: for my emaill.<sub><sup>*
 </details>
 
 
 <details>
-<summary>😄 Pronouns/summary>
+  <summary>😄 Pronouns</summary>
   
 *<sup>He || Him<sup>*
 </details>
   
 
 <details>
-<summary>⚡ Fun fact ⚡</summary>  
+  <summary>⚡ Fun fact ⚡</summary>  
   
 *<sup>I qualified for the Olympics :dart: when I was 19 for archery, but chose to focus on other things.<sup>*
 </details>
