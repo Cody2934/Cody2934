@@ -7,7 +7,7 @@ Hello and welcome to my READme. I hope you're doing well. Feel free to take a lo
 <details>
   <summary>Where do I work?</summary>
   
-*<sup>I work at FuelCloud. A cloud based fuel management company with multiple hardware and software components. At FuelCloud we have three core values. Be simple to start, easy to use, and supported all the time.<sup>*
+*<sup>I work at FuelCloud. A cloud based fuel management company with multiple hardware and software components. At FuelCloud we have three core values: Create something simple to start, easy to use, and supported all the time.<sup>*
 </details>
 
 
@@ -21,14 +21,14 @@ Hello and welcome to my READme. I hope you're doing well. Feel free to take a lo
 <details>
   <summary>What do I do on my freetime?</summary>
   
-*<sup>My freetime consists mainly of taking care of my newbord daughter Mia (first kid) When I can I learn and tinker with new tech; building and flying a quadcopter or done as most people call it, as well as making my MacBook into a gaming computer (tech specs are just a recomendation). I absolutely love the ourdoors. Check out my website for some pics of backpacking around timberline.<sup>*
+*<sup>My freetime consists mainly of taking care of my newbord daughter Mia (first kid). When I can I like learn and tinker with new tech; building and flying a quadcopter, as well as making my MacBook into a gaming computer (tech specs are just a recomendation). I absolutely love the ourdoors. Check out my website for some pics of backpacking around timberline.<sup>*
 </details>
 
 
 <details>
   <summary>How can I help?</summary>  
   
-*<sup>If you need help with anything just ask. Before starting at FuelCloud most of my weeekends and some weeks were taken up by hackathons and inventathons. I would either work on projects as a software developer, designer, or project manager. During the OHSU/MIT hackathon my team took 2nd place for our teen suicide prevention mobile app. During the Amazon PDX Hackaton my team took 3rd place for creating a covid safe way of clocking in cusing Amazons Facial Recognition software. During the Technology Association of Oregon Inventathon Techlandia summit my team got an honorable mention for diversity and inclusion when we were building our BLE health monitors for helping seniors with their every day lives. If you need help with anything, just let me know, I'm here to help.<sup>*
+*<sup>If you need help with anything just ask. Before starting at FuelCloud most of my weeekends and some weeks were taken up by hackathons and inventathons. I would either work on projects as a software developer, designer, or project manager. During the OHSU/MIT hackathon my team took 2nd place for our teen suicide prevention mobile app. During the Amazon PDX Hackaton my team took 3rd place for creating a covid safe way of clocking in using Amazons Facial Recognition software. During the Technology Association of Oregon Inventathon Techlandia summit my team got an honorable mention for diversity and inclusion when we were building our BLE health monitors for helping seniors with their every day lives. If you need help with anything, just let me know, I'm here to help.<sup>*
 </details>
 
 
