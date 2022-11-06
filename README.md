@@ -1,27 +1,27 @@
 ![hellothere](https://media3.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)    
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-[![Linkedin Badge](https://img.shields.io/badge/-codylylebrown-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codylylebrown/)](https://www.linkedin.com/in/codylylebrown/) [![Gmail Badge](https://img.shields.io/badge/-clb2934@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:clb2934@gmail.com)](mailto:clb2934@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-codylylebrown-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codylylebrown/)](https://www.linkedin.com/in/codylylebrown/)
 
 Hello and welcome to my READme. I hope you're doing well. Feel free to take a look around and hit me up if you wanna talk.
 
 <details>
   <summary>Where do I work?</summary>
   
-*<sup>I work at FuelCloud. A cloud based fuel management company with multiple hardware and software components. At FuelCloud we have three core values: Create something simple to start, easy to use, and supported all the time.<sup>*
+*<sup>I work at FuelCloud; tech company in the oil & energy sector.<sup>*
 </details>
 
 
 <details>
   <summary>What do I do at FuelCloud?</summary>
   
-*<sup>At FuelCloud I'm a Technical Support Specialist. That means I work with elelctircal engineers and technicians to install our hardware as well as third-party hardware, I help IT teams and CTOs integrate their system and reporting with ours, I instruct everyone from truck drivers to company owners on how to use our system and best practices to use. I'm also in the middle of refactoring our entire support process from the the moment someone has an issues, to a ticket being created, to helping track down the bugs, to updating the customer and future proofing things so it wont happen again.<sup>*
+*<sup>Product Onwer. International dev and engineering teams. Local stakeholders and engineering teams.<sup>*
 </details>
 
 
 <details>
   <summary>What do I do on my freetime?</summary>
   
-*<sup>My freetime consists mainly of taking care of my newbord daughter Mia (first kid). When I can I like learn and tinker with new tech; building and flying a quadcopter, as well as making my MacBook into a gaming computer (tech specs are just a recomendation). I absolutely love the ourdoors. Check out my website for some pics of backpacking around timberline.<sup>*
+*<sup>My freetime consists mainly of getting outdoors with the family.<sup>*
 </details>
 
 
@@ -42,7 +42,7 @@ Hello and welcome to my READme. I hope you're doing well. Feel free to take a lo
 <details>
   <summary>📫 How to reach me:</summary>
   
-*<sup>I recomend sending me an email or [my LinkedIn](https://www.linkedin.com/in/codylylebrown/). <sub>PSST, look over there :eyes: for my emaill.<sub><sup>*
+*<sup>[my LinkedIn](https://www.linkedin.com/in/codylylebrown/).<sup>*
 </details>
 
 
@@ -56,7 +56,7 @@ Hello and welcome to my READme. I hope you're doing well. Feel free to take a lo
 <details>
   <summary>⚡ Fun fact ⚡</summary>  
   
-*<sup>I qualified for the Olympics :dart: when I was 19 for archery, but chose to focus on other things.<sup>*
+*<sup>In 3 years without a college degree I went from a deadend career working in steel toe boots and hardhat making $18/hr, to more than doubling my salary and loving my job.<sup>*
 </details>
   
 ![Cody's github stats](https://github-readme-stats.vercel.app/api?username=cody2934&hide=["issues"]&show_icons=true)
