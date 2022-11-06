@@ -7,21 +7,21 @@ Hello and welcome to my READme. I hope you're doing well. Feel free to take a lo
 <details>
   <summary>Where do I work?</summary>
   
-*<sup>I work at FuelCloud; tech company in the oil & energy sector.<sup>*
+*<sup>FuelCloud; tech company in the oil & energy sector.<sup>*
 </details>
 
 
 <details>
   <summary>What do I do at FuelCloud?</summary>
   
-*<sup>Product Onwer. International dev and engineering teams. Local stakeholders and engineering teams.<sup>*
+*<sup>Product Owner; I wear all the hats, ask all the questions, and tell people no a lot.<sup>*
 </details>
 
 
 <details>
   <summary>What do I do on my freetime?</summary>
   
-*<sup>My freetime consists mainly of getting outdoors with the family.<sup>*
+*<sup>Getting outdoors with the family.<sup>*
 </details>
 
 
