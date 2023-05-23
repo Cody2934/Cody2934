@@ -58,7 +58,4 @@ Hello and welcome to my READme. I hope you're doing well. Feel free to take a lo
   
 *<sup>In 3 years without a college degree I went from a deadend career working in steel toe boots and hardhat making $18/hr, to more than doubling my salary and loving my job.<sup>*
 </details>
-  
-![Cody's github stats](https://github-readme-stats.vercel.app/api?username=cody2934&hide=["issues"]&show_icons=true)
-
 
