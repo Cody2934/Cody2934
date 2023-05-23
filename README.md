@@ -61,5 +61,4 @@ Hello and welcome to my READme. I hope you're doing well. Feel free to take a lo
   
 ![Cody's github stats](https://github-readme-stats.vercel.app/api?username=cody2934&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=cody2934.cody2934)
 
