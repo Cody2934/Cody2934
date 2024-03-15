@@ -5,30 +5,30 @@
 Hello and welcome to my READme. Hope you're doing well. Feel free to take a look around and hit me up if you wanna chat. Don't hop on here very often anymore, but always down to talk tech. 
 
 <details>
-  <summary>Where did I most recently work?</summary>
+  <summary>Where did I most recently work</summary>
   
 *<sup>FuelCloud; an innovative tech company in the oil & energy sector.<sup>*
 </details>
 
 
 <details>
-  <summary>What did I do at FuelCloud?</summary>
+  <summary>What did I do at FuelCloud</summary>
   
 *<sup>I was their Web Product Manager; wear all the hats, ask all the questions, and help everyone however best I can.<sup>*
 </details>
 
 
 <details>
-  <summary>What do I like to do on my freetime?</summary>
+  <summary>What do I like to do on my freetime</summary>
   
 *<sup>Get outdoors with the family.<sup>*
 </details>
 
 
 <details>
-  <summary>How can I help?</summary>  
+  <summary>How can I help you?</summary>  
   
-*<sup>If you need help with anything just ask. Before starting at FuelCloud most of my weeekends and some weeks were taken up by hackathons and inventathons. I would either work on projects as a software developer, designer, or project manager. During the OHSU/MIT hackathon my team took 2nd place for our teen suicide prevention mobile app. During the AWS PDX Hackaton my team took 3rd place for creating a COVID safe way of clocking in using Amazon's Facial Recognition software. During the Technology Association of Oregon Inventathon Techlandia summit my team got an honorable mention for diversity and inclusion when we were building our bluetooth health monitors for helping seniors with their every day lives. If you need help with anything, just let me know, I'm here to help. I'm a fast learner who likes to learn new things and always up for the challenge.<sup>*
+*<sup>If you need help with anything, just let me know, I'm here to help. I'm a fast learner who likes to learn new things and always up for a challenge.<sup>*
 </details>
 
 
@@ -40,14 +40,14 @@ Hello and welcome to my READme. Hope you're doing well. Feel free to take a look
 
 
 <details>
-  <summary>📫 How to reach me:</summary>
+  <summary>📫 How to reach me</summary>
   
 *<sup>[my LinkedIn](https://www.linkedin.com/in/codylylebrown/).<sup>*
 </details>
 
 
 <details>
-  <summary>😄 Pronouns</summary>
+  <summary>My Pronouns</summary>
   
 *<sup>He || Him<sup>*
 </details>
