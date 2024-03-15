@@ -2,33 +2,33 @@
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 [![Linkedin Badge](https://img.shields.io/badge/-codylylebrown-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codylylebrown/)](https://www.linkedin.com/in/codylylebrown/)
 
-Hello and welcome to my READme. I hope you're doing well. Feel free to take a look around and hit me up if you wanna talk.
+Hello and welcome to my READme. Hope you're doing well. Feel free to take a look around and hit me up if you wanna chat. Don't hop on here very often anymore, but always down to talk tech. 
 
 <details>
-  <summary>Where do I work?</summary>
+  <summary>Where did I most recently work?</summary>
   
-*<sup>FuelCloud; tech company in the oil & energy sector.<sup>*
+*<sup>FuelCloud; an innovative tech company in the oil & energy sector.<sup>*
 </details>
 
 
 <details>
-  <summary>What do I do at FuelCloud?</summary>
+  <summary>What did I do at FuelCloud?</summary>
   
-*<sup>Product Owner; I wear all the hats, ask all the questions, and tell people no a lot.<sup>*
+*<sup>I was their Web Product Manager; wear all the hats, ask all the questions, and help everyone however best I can.<sup>*
 </details>
 
 
 <details>
-  <summary>What do I do on my freetime?</summary>
+  <summary>What do I like to do on my freetime?</summary>
   
-*<sup>Getting outdoors with the family.<sup>*
+*<sup>Get outdoors with the family.<sup>*
 </details>
 
 
 <details>
   <summary>How can I help?</summary>  
   
-*<sup>If you need help with anything just ask. Before starting at FuelCloud most of my weeekends and some weeks were taken up by hackathons and inventathons. I would either work on projects as a software developer, designer, or project manager. During the OHSU/MIT hackathon my team took 2nd place for our teen suicide prevention mobile app. During the Amazon PDX Hackaton my team took 3rd place for creating a covid safe way of clocking in using Amazons Facial Recognition software. During the Technology Association of Oregon Inventathon Techlandia summit my team got an honorable mention for diversity and inclusion when we were building our BLE health monitors for helping seniors with their every day lives. If you need help with anything, just let me know, I'm here to help.<sup>*
+*<sup>If you need help with anything just ask. Before starting at FuelCloud most of my weeekends and some weeks were taken up by hackathons and inventathons. I would either work on projects as a software developer, designer, or project manager. During the OHSU/MIT hackathon my team took 2nd place for our teen suicide prevention mobile app. During the AWS PDX Hackaton my team took 3rd place for creating a COVID safe way of clocking in using Amazon's Facial Recognition software. During the Technology Association of Oregon Inventathon Techlandia summit my team got an honorable mention for diversity and inclusion when we were building our bluetooth health monitors for helping seniors with their every day lives. If you need help with anything, just let me know, I'm here to help. I'm a fast learner who likes to learn new things and always up for the challenge.<sup>*
 </details>
 
 
@@ -54,8 +54,8 @@ Hello and welcome to my READme. I hope you're doing well. Feel free to take a lo
   
 
 <details>
-  <summary>⚡ Fun fact ⚡</summary>  
+  <summary>⚡ 3 fun facts ⚡</summary>  
   
-*<sup>In 3 years without a college degree I went from a deadend career working in steel toe boots and hardhat making $18/hr, to more than doubling my salary and loving my job.<sup>*
+*<sup>I qualified for the Olympics in Archery. I enjoy racing my Tesla at PIR. I'm an Eagle Scout.<sup>*
 </details>
 
